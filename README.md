@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bbp15812@gmail.com**
 
-- ⚡ Fun fact **I like to do funny things😂**
+
 
 <h3 align="left">Connect with me:</h3>
 
