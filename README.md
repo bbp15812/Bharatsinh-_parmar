@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Php frameworks**
 
-- 📝 I regularly write articles on [https://codingmaster78.blogspot.com](https://codingmaster78.blogspot.com)
+- 📝 I regularly write articles on [https://codingwithbharatsinhparmar.blogspot.com](https://codingmaster78.blogspot.com)
 
 - 📫 How to reach me **bbp15812@gmail.com**
 
